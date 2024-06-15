@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Computer Science student at IIIT Kottayam with a pas
 ![ds](https://github.com/U-Shashank/U-Shashank/assets/121192796/de2381af-c8b2-4269-8bca-891537c90a03)
 
 ## Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/upadhyay-shashank) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShashankUp46820) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://shashank-upadhyay.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/upadhyay-shashank) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shashanx30) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://shashank-upadhyay.vercel.app)
 
 ## Hobbies
  🍿 Watching anime and TV shows.  
