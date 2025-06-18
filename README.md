@@ -40,7 +40,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" alt="Tech"/>
@@ -101,7 +101,7 @@
 
 <!-- Featured Projects -->
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="Projects">
@@ -149,7 +149,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Stats"/>
@@ -176,7 +176,7 @@
 
 <!-- Connect Section -->
 <div align="center">
-  <table>
+<table>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" alt="Connect"/>
@@ -218,3 +218,4 @@
   <br/>
   <sub>💡 <strong>"Code is poetry written in logic"</strong></sub>
 </div>
+
